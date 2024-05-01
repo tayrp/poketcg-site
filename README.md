@@ -1,3 +1,4 @@
+# Please note I do want to make my *own* website for this project, Though I have paused everything with this project for this current time.
 # Discord Bot Landing Page Template
 Just a simple landing page for your discord bot with animations, works with different devices and easy to modify
 
